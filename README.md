@@ -25,6 +25,6 @@ On my free time, I usually study physics and study about developing.
 * **Name**: Nicolas S. Alves
 * **Age**: 18
 * **Living in**: São Paulo, Brazil
-* **Stack**: PHP - Node.js and learning Java
+* **Stack**: Java
 * **University**: Universidade Italo Brasileiro
 * **Course**: Generation Brazil
