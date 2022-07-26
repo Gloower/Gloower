@@ -20,11 +20,11 @@
   </p>
   
 ## Public information
-
-My name is Nicolas Alves. I currently live in São Paulo, Brazil.
-I am currently studying analysis systems development at Universidade Italo Brasileiro (São Paulo - Capital)
-On my free time, I usually study physics and study about developing.
-
+<ul>
+<li>My name is Nicolas Alves. I currently live in São Paulo, Brazil.</li>
+<li>I am currently studying analysis systems development at Universidade Italo Brasileiro (São Paulo - Capital)</li>
+<li>On my free time, I usually study physics and study about developing.</li>
+</ul>
 ## Detailed information
 
 * **Name**: Nicolas S. Alves
