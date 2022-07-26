@@ -25,11 +25,13 @@
 <li>I am currently studying analysis systems development at Universidade Italo Brasileiro (São Paulo - Capital)</li>
 <li>On my free time, I usually study physics and study about developing.</li>
 </ul>
-## Detailed information
 
-* **Name**: Nicolas S. Alves
-* **Age**: 18
-* **Living in**: São Paulo, Brazil
-* **Stack**: Java
-* **University**: Universidade Italo Brasileiro
-* **Course**: Generation Brazil
+## Detailed information
+<ul>
+<li>Name: Nicolas S. Alves</li>
+<li>Age: 18</li>
+<li>Living in: São Paulo, Brazil</li>
+<li>Stack: Java</li>
+<li>University: Universidade Italo Brasileiro</li>
+<li>Bootcamp: Generation Brazil</li>
+</ul>
