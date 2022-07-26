@@ -9,11 +9,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
-
-## System.out.println("Hello there");
-
 <p align="center">
-    <b> Hello there! How r u? </b> <br/>
+    <b> System.out.println("Hello there! How r u? ") </b> <br/>
     I don't know how u got there, but i will itry to show a little bit about myself for you :) <br/>
     <img alt="Skeleton holding a mug with a floating computer" src="https://64.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_ozrtbsdD871w4zyh1o5_500.gifv" width="200" > <br/>
     <br/>
