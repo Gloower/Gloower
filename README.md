@@ -14,6 +14,8 @@
 
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
+<br/>
+    <img alt="Skeleton holding a mug with a floating computer" src="https://64.media.tumblr.com/58d8a7c0e3c64f7e4505cdb4091eb159/tumblr_ozrtbsdD871w4zyh1o5_500.gifv" width="200" > <br/>
 ## Public information
 
 My name is Nicolas Alves. I currently live in São Paulo, Brazil.
