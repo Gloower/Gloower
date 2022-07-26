@@ -22,7 +22,7 @@
 ## Public information
 
 My name is Nicolas Alves. I currently live in São Paulo, Brazil.
-
+I am currently studying analysis systems development at Universidade Italo Brasileiro (São Paulo - Capital)
 On my free time, I usually study physics and study about developing.
 
 ## Detailed information
