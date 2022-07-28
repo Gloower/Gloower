@@ -32,3 +32,5 @@
 <li>University: Universidade Italo Brasileiro</li>
 <li>Bootcamp: Generation Brazil</li>
 </ul>
+
+<img alt="Skeleton putting infinite coffee in a mug" align="right" src="https://64.media.tumblr.com/250faa2de4c15934d02d064d85cd9e41
