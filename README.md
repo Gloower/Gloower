@@ -29,6 +29,7 @@
 <li>Age: 18</li>
 <li>Living in: São Paulo, Brazil</li>
 <li>Stack: Java</li>
+<li>Learning: Go</li>
 <li>University: Universidade Italo Brasileiro</li>
 <li>Bootcamp: Generation Brazil</li>
 </ul>
