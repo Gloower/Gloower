@@ -28,7 +28,7 @@
 <li>Name: Nicolas S. Alves</li>
 <li>Age: 18</li>
 <li>Living in: São Paulo, Brazil</li>
-<li>Stack: Java, JavaScript, SpringBoot</li>
+<li>Stack: Java, JavaScript, SpringBoot, Html, Php, Css</li>
 <li>Learning: Go</li>
 <li>University: Universidade Italo Brasileiro</li>
 <li>Bootcamp: Generation Brazil</li>
