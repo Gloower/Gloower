@@ -20,16 +20,16 @@
 <ul>
 <li>My name is Nicolas Alves. I currently live in São Paulo, Brazil.</li>
 <li>I am currently studying analysis systems development at Universidade Italo Brasileiro (São Paulo - Capital)</li>
-<li>On my free time, I usually study physics and study about developing.</li>
+<li>On my free time, i just listen some music and study about developing.</li>
 </ul>
 
 ## Detailed information
 <ul>
 <li>Name: Nicolas S. Alves</li>
-<li>Age: 18</li>
+<li>Age: 20</li>
 <li>Living in: São Paulo, Brazil</li>
-<li>Stack: Java, JavaScript, SpringBoot, Html, Php, Css</li>
-<li>Learning: Go</li>
+<li>Stack: Java, Python</li>
+<li>Learning: some stuffs with Python and Java</li>
 <li>University: Universidade Italo Brasileiro</li>
 <li>Bootcamp: Generation Brazil</li>
 </ul>
